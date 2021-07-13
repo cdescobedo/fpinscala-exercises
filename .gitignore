@@ -1,3 +1,11 @@
 # From vscode
-.metals/
 .vscode/
+
+# vscode metals plugin
+.metals/
+.bloop/
+
+# sbt
+.bsp/
+target/
+project/
